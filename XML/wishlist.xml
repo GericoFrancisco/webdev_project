@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wishlists>
+    <!-- <wishlist productCode="">
+        <itemName/> 
+        <itemColor/>
+        <itemSize/>
+        <itemPrize/>
+        <itemDescription/>
+        <itemImage/>
+    </wishlist> -->
+<wishlist productCode="00002-Small-Black" username="admin"><itemName>Skateboard</itemName><itemColor>Black</itemColor><itemSize>Small</itemSize><itemPrice>399</itemPrice><itemDescription>T-shirt in soft cotton jersey with a round neckline and a print motif.</itemDescription><itemImage>img/Items/Boys/Graphic/LA_Black.jpg</itemImage></wishlist></wishlists>
